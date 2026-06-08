@@ -45,21 +45,15 @@ Se selecciona una arquitectura web de **tres capas** por su separación de respo
 - Backend → Spring Boot  
 - Base de datos → MySQL  
 
-📷 *[Insertar imagen: Diagrama de arquitectura]*
-
 ---
 
 ### 4.2 Diseño del Modelo de Datos
 **Entidades principales:** Usuario, Película, Sala, Función, Asiento, Compra, Ticket.  
 
-📷 *[Insertar imagen: Modelo entidad–relación (ER)]*
-
 ---
 
 ### 4.3 Diseño Orientado a Objetos
 Principios aplicados: **Encapsulamiento, alta cohesión, bajo acoplamiento**.  
-
-📷 *[Insertar imagen: Diagrama de clases UML]*
 
 ---
 
@@ -69,15 +63,11 @@ Reglas de negocio:
 - RN-01 Máximo 8 entradas por compra.  
 - RN-02 No vender si la función empieza en menos de 30 minutos.  
 
-📷 *[Insertar imagen: Diagrama de secuencia]*
-
 ---
 
 ### 4.5 Diseño de Interfaces (Wireframes)
 Pantallas: Cartelera, selección de asientos, compra.  
 Requisito no funcional: **Diseño adaptable (responsive)**.  
-
-📷 *[Insertar imágenes de wireframes]*
 
 ---
 
